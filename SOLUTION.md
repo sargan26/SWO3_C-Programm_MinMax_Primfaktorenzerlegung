@@ -18,13 +18,21 @@
 ![](doc/minmax3.png)
 
 3. Nur negative Werte
+
 ![](doc/minmax4.png)
+
 4. Minimum an 1. Stelle
+
 ![](doc/minmax5.png)
+
 5. Minimum an letzter Stelle
+
 ![](doc/minmax6.png)
+
 6. Negative und positive Werte
+
 ![](doc/minmax7.png)
+
 7. Zeichenketter übergeben statt Zahl
 
 ## 2. Aufgabe 2 (src/yyy/)  
