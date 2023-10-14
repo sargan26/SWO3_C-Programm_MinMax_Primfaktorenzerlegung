@@ -9,11 +9,15 @@
 ### Implementierung
 ### Tests
 ![](doc/minmax1.png)
+
 Compilieren und keine Parameter
 
 ![](doc/minmax2.png)
+
 Nur positive Werte
+
 ![](doc/minmax3.png)
+
 Nur negative Werte
 ![](doc/minmax4.png)
 Minimum an 1. Stelle
