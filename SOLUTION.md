@@ -9,12 +9,11 @@
 ### Implementierung
 ### Tests
 ![](doc/minmax1.png)
-\n
-Compilieren und keine Parameter
+1. Compilieren und keine Parameter
 
 ![](doc/minmax2.png)
 
-Nur positive Werte
+2. Nur positive Werte
 
 ![](doc/minmax3.png)
 
