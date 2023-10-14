@@ -9,6 +9,19 @@
 ### Implementierung
 ### Tests
 ![](doc/minmax1.png)
+Compilieren und keine Parameter
+![](doc/minmax2.png)
+Nur positive Werte
+![](doc/minmax3.png)
+Nur negative Werte
+![](doc/minmax4.png)
+Minimum an 1. Stelle
+![](doc/minmax5.png)
+Minimum an letzter Stelle
+![](doc/minmax6.png)
+Negative und positive Werte
+![](doc/minmax7.png)
+Zeichenketter übergeben statt Zahl
 
 ## 2. Aufgabe 2 (src/yyy/)  
 
