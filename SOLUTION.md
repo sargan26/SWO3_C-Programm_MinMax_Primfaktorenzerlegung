@@ -17,15 +17,15 @@
 
 ![](doc/minmax3.png)
 
-Nur negative Werte
+3. Nur negative Werte
 ![](doc/minmax4.png)
-Minimum an 1. Stelle
+4. Minimum an 1. Stelle
 ![](doc/minmax5.png)
-Minimum an letzter Stelle
+5. Minimum an letzter Stelle
 ![](doc/minmax6.png)
-Negative und positive Werte
+6. Negative und positive Werte
 ![](doc/minmax7.png)
-Zeichenketter übergeben statt Zahl
+7. Zeichenketter übergeben statt Zahl
 
 ## 2. Aufgabe 2 (src/yyy/)  
 
