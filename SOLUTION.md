@@ -44,7 +44,19 @@ Kommandozeilen Parameter erhält man in C über den Parameter argv der main-Funk
 
 ### Lösungsidee
 
-Durch die Kommandozeilen Parameter in einer For-Schleife durch iterieren und wieder mit der atoi-Funktion in Integer umwandeln. 
+Durch die Kommandozeilen Parameter in einer For-Schleife durch iterieren und wieder mit der atoi-Funktion in Integer umwandeln. Die Primfaktornberechnung in eine eigene Funktion auslagern und diese dann mehrmals in der For-Schleife aufrufen. Für die Ermittlnung der Primfaktoren versucht man die Zahl zu dividieren und schaut sich den Restwert an. Dabei beginnt man mit dem Divisor 2 und inkrementiert diesen falls die Restwertbildung ungleich 0 ist.
 
 ### Implementierung
 ### Tests
+
+1. Compilieren und Testfälle der Angabe
+
+![](doc/minmax1.png)
+
+2. Negativer Wert
+
+![](doc/minmax2.png)
+
+3. Nur negative Werte
+
+![](doc/minmax3.png)
