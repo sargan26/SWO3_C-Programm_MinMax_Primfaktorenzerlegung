@@ -6,7 +6,7 @@
 
 ### Lösungsidee
 
-Kommandozeilen Parameter erhält man in C über den Parameter argv der main-Funktion. Da diese Parameter als Zeichenkette daher kommen muss man sie wahrscheinlich in eine Zahl umwandeln zB. mit Type-Cast. Min, Max als globale Variable speichern und mit 0 initialisieren. Wenn etwas größer oder kleiner ist entsprechend Min oder Max aktualisieren und ausgeben.
+Kommandozeilen Parameter erhält man in C über den Parameter argv der main-Funktion. Da diese Parameter als Zeichenkette daher kommen muss man sie wahrscheinlich in eine Zahl umwandeln zB. mit der atoi-Funktion. Min, Max als globale Variable speichern und mit 0 initialisieren. Wenn etwas größer oder kleiner ist entsprechend Min oder Max aktualisieren und ausgeben.
 
 ### Implementierung
 ### Tests
@@ -35,13 +35,16 @@ Kommandozeilen Parameter erhält man in C über den Parameter argv der main-Funk
 
 ![](doc/minmax6.png)
 
-7. Zeichenketter übergeben statt Zahl
+7. Zeichenketten übergeben statt Zahl
 
 ![](doc/minmax7.png)
 
 
-## 2. Aufgabe 2 (src/yyy/)  
+## 2. Aufgabe 2 (src/prim/)  
 
 ### Lösungsidee
+
+Durch die Kommandozeilen Parameter in einer For-Schleife durch iterieren und wieder mit der atoi-Funktion in Integer umwandeln. 
+
 ### Implementierung
 ### Tests
