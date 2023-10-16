@@ -51,12 +51,12 @@ Durch die Kommandozeilen Parameter in einer For-Schleife durch iterieren und wie
 
 1. Compilieren und Testfälle der Angabe
 
-![](doc/minmax1.png)
+![](doc/factorinteger1.png)
 
 2. Negativer Wert
 
-![](doc/minmax2.png)
+![](doc/factorinteger2.png)
 
-3. Nur negative Werte
+3. Ohne Parameter
 
-![](doc/minmax3.png)
+![](doc/factorinteger3.png)
